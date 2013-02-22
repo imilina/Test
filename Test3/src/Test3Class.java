@@ -8,7 +8,7 @@ public class Test3Class {
 		System.out.println("Hello world");
 
 		// Ovo je neki buggy kod koji se testira
-		System.out.println("testiranje");
+		System.out.println("testiranje #2");
 		
 	}
 
