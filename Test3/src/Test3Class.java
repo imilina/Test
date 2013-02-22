@@ -1,4 +1,3 @@
-
 public class Test3Class {
 
 	/**
@@ -9,7 +8,7 @@ public class Test3Class {
 
 		System.out.println("Ovo je jako dugački tekst koji nešto radi");
 		
-		System.out.println("Da vidimo kako će ovo radit");
+		System.out.println("Da vidimo kako će ovo radit...");
 	}
 
 }
