@@ -7,7 +7,7 @@ public class Test3Class {
 	public static void main(String[] args) {
 		System.out.println("Hello world");
 
-		System.out.println("Ovo je jako dugački tekst");
+		System.out.println("Ovo je jako dugački tekst koji nešto radi");
 		
 	}
 
