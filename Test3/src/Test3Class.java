@@ -10,6 +10,7 @@ public class Test3Class {
 		// Ovo je neki buggy kod koji se testira
 		System.out.println("testiranje #2");
 		
+		System.out.println("Da vidimo kako će ovo radit");
 	}
 
 }
